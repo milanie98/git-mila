@@ -22,9 +22,9 @@ Voici la liste des questions auquelles tu vas pouvoirs répondre avec cette ress
 
 ### 1.2 Historique
 
-Le terminal est ce que t ce que l'on appelle plus communément un interpréteur de commande (ou command-line interpreter (CLI) en anglais), est un outil qui permet d'interpréter les commandes qu'un utilisateur tape au clavier dans l'interface en ligne de commande.
+Le terminal est ce que l'on appelle plus communément un interpréteur de commande (ou command-line interpreter (CLI) en anglais), est un outil qui permet d'interpréter les commandes qu'un utilisateur tape au clavier dans l'interface en ligne de commande.
 
- A la base, les ordinateurs? les ordinateurs tournaient snas interface graphique, donc les utilisateurs passaient exclusivement par les CLI. Avec l'arrivée des système d'exploitation graphiques ( Windowns , Apple , Linux), le CLI n'a pas perdy en popularité , puisqu'il permet de faire des tâches extrêment précises. 
+ A la base, les ordinateurs tournaient sanss interface graphique, donc les utilisateurs passaient exclusivement par les CLI. Avec l'arrivée des système d'exploitation graphiques ( Windowns , Apple , Linux), le CLI n'a pas perdu en popularité , puisqu'il permet de faire des tâches extrêmement précises. 
 
  En gros, c'est une version texte de l'explorateur de fichier: on peut ouvrir des dossiers , créer des fichiers, les lancer; les renommer; installer des programes , et bien d'autre choses. On dit que c'est une **CLI** ( Command Line Interface) , comparée à la **GUI** (Graphical User Interface) de l'explorateur normal. Tout est fait via clavier , donc pas besoin de souris dans le terminal.
 
@@ -41,7 +41,7 @@ Sur macOS : `[CMD]`+ `[SPACE]` , puis écrire `[Terminal]` ( ou iTerm), Enter
 
 ### ALERTE BONNE ASTUCE 
 
-Si tu utilises Linux ,passe ton terminal en anglais . Quand ce dernier ter renverra une erreur , c'est bien mieux qu'elle soi e anglais . L'anglais de la landue d'internet , donc la majorité des gens qui ont eu ton peoblèmz vont le poster en anglais . Et ainsi tu auras 100 fois plus de résultats sur Google que si tu postais ton erreur en français.
+Si tu utilises Linux ,passe ton terminal en anglais . Quand ce dernier te renverra une erreur , c'est bien mieux qu'elle soi e anglais . L'anglais de la landue d'internet , donc la majorité des gens qui ont eu ton peoblèmz vont le poster en anglais . Et ainsi tu auras 100 fois plus de résultats sur Google que si tu postais ton erreur en français.
 
 ### 1.3.3 Premières fontions ?
 
