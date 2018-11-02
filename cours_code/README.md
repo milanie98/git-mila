@@ -11,7 +11,7 @@ Dans ce projet tu vas :
 
 -apprendre le format .md, très pratique pour faire de l'édition de texte
 
-- manipuler des fichiers avec ton terminal 
+- manipuler des fichiers avec ton terminal
 
 
 **décrire comment le dossier est organisé**
