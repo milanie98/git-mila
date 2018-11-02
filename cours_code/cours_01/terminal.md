@@ -172,13 +172,13 @@ Voici les points à retenir de la source : Voici les points à retenir de la res
 *`[mv]` permet de déplacerun fichier ou un dossier
 *`[rm]` permet de supprimer un fichier 
 
-### 1.5 Aller plus loins
+### 1.5 Aller plus loin
 
 Voici un excellent [cours express](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) pour avoir quelques base, sur le terminal. Il est un peu similaire au mien, mais aborde d'autres sujets intéressants tels que que le PATH.
 
 Viking code school ont aussi fait [cours sur le pimp de terminal](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) pour avoir plein de couleurs de BGs sur le tien .
 
-Michael Harti a fait une célèbre introduction au terminal nommée [Learn enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial). Cette ressource permet d'aller assez loins en détails dans le terminal .
+Michael Harti a fait une célèbre introduction au terminal nommée [Learn enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial). Cette ressource permet d'aller assez loin en détails dans le terminal .
 
 
 
