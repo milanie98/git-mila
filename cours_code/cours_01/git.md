@@ -4,17 +4,17 @@
 
 Ce cours t'introduira à Git et Github, deux fantastiques outils qui permettent de faire des sauvegardes efficaces d'un projet, et de travailler à plusieurs sur le même dossier.
 
-Dans cette leçon , nous allons te monter comment installer Git, comment s'en servir , et comment le faire marcher .
+Dans cette leçon, nous allons te montrer comment installer Git, comment s'en servir , et comment le faire marcher .
 Pour ceci, nous allons nous aider de l'excellent [openclass](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-githubsur)
- OpenClassrooms de Marc Gauthier; sur Git et Github
+OpenClassrooms de Marc Gauthier; sur Git et Github
 
  ####  2.1.1 Ce que tu vas apprendre dans cette ressource 
 
  #### 2.2 Historique 
 
- Git est un outil de versonning c=de code , c'est à dire que c'est une commade qui permet de faire des sauvegardes , avec commetaires d'un projet. Ainsi, il est facile de revenir d'une version de sauvegarde à l'autre, et c'est même optimisé pour les projets où tout le monde travaille sur le même fichier !
+ Git est un outil de versonning c=de code , c'est à dire que c'est une commande qui permet de faire des sauvegardes , avec commentaires d'un projet. Ainsi, il est facile de revenir d'une version de sauvegarde à l'autre, et c'est même optimisé pour les projets où tout le monde travaille sur le même fichier !
 
- En gros , c'est la même chose quand vous faîtes une grosse présentation PPT. Vous faites tellement de modifications dessus que vous retrouvez à la fin avec le nom "VF_avec8retours_jeans01_final.ppt". Le versonning vous permet d'avoir toutes les versions sauvegardees, et de revenir à celles que vous voulez à tout moment, et de nous éviter ces tarcas. 
+ En gros , c'est la même chose quand vous faîtes une grosse présentation PPT. Vous faites tellement de modifications dessus que vous retrouvez à la fin avec le nom "VF_avec8retours_jeans01_final.ppt". Le versonning vous permet d'avoir toutes les versions sauvegardees, et de revenir à celles que vous voulez à tout moment, et de nous éviter ces tracas. 
 
  Voilà à quoi Git sert : à mieux gérér ses versions entre les fichiers d'un projet ( bonus :Git marche pour tous les fichiers d'un dossier concerné , donc c'est encore plus puissant que  
  `<CTRL>` + `<S>`. t Github permet de mettre en ligne ton projet , comme ça vous pourrez travailler facilement  en équipe dessus.
