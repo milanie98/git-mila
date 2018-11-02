@@ -16,8 +16,8 @@ Pour ceci, nous allons nous aider de l'excellent [openclass](https://openclassro
 
  En gros , c'est la même chose quand vous faîtes une grosse présentation PPT. Vous faites tellement de modifications dessus que vous retrouvez à la fin avec le nom "VF_avec8retours_jeans01_final.ppt". Le versonning vous permet d'avoir toutes les versions sauvegardees, et de revenir à celles que vous voulez à tout moment, et de nous éviter ces tarcas. 
 
- Voilà à quoi Git sert : à mieux gérér ses versions entre les fichiers d'un projet ( bonus :Git marche pour tous sles fichiers d'un dossier concerné , donc c'est encore plus puissant que  
- `<CTRL>` + `<S>`. t Github permet de mettre en ligne ton projet , comme ça vous pourrez travailler facilement en équipe dessus.
+ Voilà à quoi Git sert : à mieux gérér ses versions entre les fichiers d'un projet ( bonus :Git marche pour tous les fichiers d'un dossier concerné , donc c'est encore plus puissant que  
+ `<CTRL>` + `<S>`. t Github permet de mettre en ligne ton projet , comme ça vous pourrez travailler facilement  en équipe dessus.
 
  Pour information , Git a été crée en 2005 par linus Torvald , qui ( entre autres) crée le système d'exploitation Linux.
 
@@ -41,7 +41,7 @@ Pour ceci, nous allons nous aider de l'excellent [openclass](https://openclassro
 
 Voici un récap des commandes de base : 
 
-* `[$ git init]` : il faut TOUJOURS commencer git avec cette commade , le répértoire courants est considée comme un repository git 
+* `[$ git init]` : il faut TOUJOURS commencer git avec cette commande , le répértoire courants est considée comme un repository git 
 
 * `[ $ git add [fichier]]` : ajoute aux sauvegardes le fichier metionné **Protip**: si tu as plussieurs fichiers à ajouter , tu peuxutiliser `[git add]` qui ajoute au repisotory tous les fichiers du dossier
 
