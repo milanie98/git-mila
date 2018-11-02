@@ -41,7 +41,7 @@ quand on est développeur
 ## Objectif du cours
 Le cours a pour but principal de faire découvrir le monde des sites webs et de l'informatique 
 
-A la fin , les étudiants seront capables de :
+A la fin, les étudiants seront capables de :
 *-* Concevoir une page avec HTML
 *-* lui mettre de la mise en page avec CSS
 *-* Insérer des animations avec JavaScript 
