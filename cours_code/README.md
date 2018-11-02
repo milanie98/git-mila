@@ -2,7 +2,7 @@
 
 ---
 
-Dans ce projet nous allons te demander de créer et d'utiliser un repository GitHub pour l'intégralité de ce cours. Google Drive et autres trucs pourris c'est fini
+Dans ce projet nous allons te demander de créer et d'utiliser un repository GitHub pour l'intégralité de ce cours. Google Drive et autres trucs pourris c'est fini !
 
 Ce projet va te permettre d'avoir le format idéal pour noter les cours d'études. Tu vas donc commencer ta carrière de jeune cadre avec les cours de ce module.
 Dans ce projet tu vas :
@@ -54,7 +54,7 @@ Nous sommes 2 personnes à avoir contribuer à ce cours . On a utilsé un seul o
  
  - Adam DIAKITE
 
- et grâce au tuto , cours  [The Hacking Project](https://www.thehackingproject.org/). 
+ et grâce au tutos , cours  [The Hacking Project](https://www.thehackingproject.org/). 
 
 
 **Dans quel contexte tu as pris ce cours**
