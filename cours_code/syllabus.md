@@ -81,7 +81,7 @@ Voici les différents logiciels à installer :
   
   *-* Déja installé sur macOS et Linux
 
-  *-* Cygwin sur Windows
+  *-* Cygwin sur Window
 
 *-* UN éditeur de texte
 
