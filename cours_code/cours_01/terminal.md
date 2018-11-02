@@ -178,7 +178,9 @@ Voici un excellent [cours express](https://www.vikingcodeschool.com/web-developm
 
 Viking code school ont aussi fait [cours sur le pimp de terminal](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course) pour avoir plein de couleurs de BGs sur le tien .
 
-Michael Harti a fait une célèbre introduction au terminal nommée [Learn enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial). Cette ressource permet d'aller assez loin en détails dans le terminal .
+Michael Harti a fait une célèbre introduction au terminal nommée [Learn enough Command Line To Be Dangerous](https://www.learnenough.com/command-line-tutorial). Cette ressource permet d'aller assez loin en détails dans le terminal.
+
+Pour ceux qui veulent découvrir Vim , voici [une marche à suivre ](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85) pour être champion de Vim rapidement.
 
 
 
