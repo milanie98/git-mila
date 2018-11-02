@@ -70,7 +70,7 @@ c'est comme dans l'explorateur en GI , qund tu double-cliques sur `[felix]` , il
  ###
  1.3.3.2 LS
 
-`[ls]` est le diminutif le dimunitif pour _list_ , cette fonction ffiche les fichiers et dossiers qu'ils y'a dans mon dossier actuel.
+`[ls]` est le diminutif le dimunitif pour _list_ , cette fonction listeo les fichiers et dossiers qu'ils y'a dans mon dossier actuel.
 
 `[$ ls]`
 
@@ -87,11 +87,11 @@ Pour afficher aussi les fichiers commençant par un `[.]`, tout au format long.
 
 `[ $man ls ]
 
-Ce qui m'ouvrira son manuel , qui je peux quitter ç tout moment en tapant `[q]` 
+Ce qui m'ouvrira son manuel , que je peux quitter à tout moment en tapant `[q]` 
 
-### 1.3.4 Ou somme- nous ?
+### 1.3.4 Ou sommes- nous ?
 
-Une notion **fondammentale$$ pour le terminal : la notion de géographie . Comme dans l'explorateur en GUI , on se déplace , on se déplace de dossiers dans le terminal. Si jamais tu veux ouvrir un fichier en tappant  `[open file.txt]`
+Une notion **fondammentale$$ pour le terminal : la notion de géographie . Comme dans l'explorateur en GUI , on déplace des dossiers dans le terminal. Si jamais tu veux ouvrir un fichier en tappant  `[open file.txt]`
 ( sur macOS) ou ` [xdg-open file.txt]` ( sur linux) et que tu ne te retrouve pas dans le bon dossier , le terminal te renverra une erreur. Un peu comme si tu essayais de double-clique su file.txt dans le mauvais dossier : impossible car il n'y est pas.
 
 Tu vas devoir te déplacer donc de dossiers en dossiers pour ouvrir et interagir avec les bons fichiers. 
