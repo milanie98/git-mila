@@ -19,7 +19,7 @@ OpenClassrooms de Marc Gauthier; sur Git et Github
  Voilà à quoi Git sert : à mieux gérér ses versions entre les fichiers d'un projet ( bonus :Git marche pour tous les fichiers d'un dossier concerné , donc c'est encore plus puissant que  
  `<CTRL>` + `<S>`. t Github permet de mettre en ligne ton projet , comme ça vous pourrez travailler facilement  en équipe dessus.
 
- Pour information , Git a été crée en 2005 par linus Torvald , qui ( entre autres) crée le système d'exploitation Linux.
+ Pour information , Git a été crée en 2005 par Linus Torvald , qui ( entres autres) crée le système d'exploitation Linux.
 
  ## 2.3 Le Cours 
  ---
@@ -68,7 +68,7 @@ Voici un récap des commandes de base :
 
 #### ALERTE ERREUR COMMUNE 
 ---
-`[git checkout]` ne marche que si u n'as pas de modification non sauvegardé. Si tu est entre deux commits , git checkout ne marchera pas . Du coup il te faudra soit faire une sauvegarde (== faire un commit) soit effacer tout pour revenir au commit d'avant.
+`[git checkout]` ne marche que si u n'as pas de modification non sauvegardée. Si tu est entre deux commits , git checkout ne marchera pas . Du coup il te faudra soit faire une sauvegarde (== faire un commit) soit effacer tout pour revenir au commit d'avant.
 
 `[$ git checkout]` n'est pas une commande pour revenir en arrière et faire des modifications sur les anciens commits. Si tu fais ça , tu vas te retrouver avec une erreur qui a donné [l'un des treads](https://stackoverflow.com/questions/5772192/how-can-i-reconcile-detached-head-with-master-origin) les plus célèbres de Stack Overflow . Pour tout effacer et revenir en arrière , le chapitre suivant sera là pour toi.
 
