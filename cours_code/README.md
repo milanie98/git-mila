@@ -61,4 +61,4 @@ Nous sommes 2 personnes à avoir contribuer à ce cours . On a utilsé un seul o
 
 ---
  
-Etudiantes en administration et échanges internationaux nous avons voulu tester cette option afin d'apprendre des compétences informatique qui est aujourd'hui  bien présente dans le milieu professionnel.  
+Etudiantes en Administration et échanges internationaux nous avons voulus tester cette option afin d'acquerir des compétences informatique qui sont aujourd'hui bien présente dans le milieu professionnel. Comme l'as dit notre professeur cela peut etre considerer comme un atout aujoud'hui, mais plutard ce sera une compétence essentielle en milieu professionelle. 
