@@ -65,12 +65,12 @@ c'est comme dans l'explorateur en GI , qund tu double-cliques sur `[felix]` , il
 
 ### ALERTE BONNE ASTUCE 
 
-`[pwd]` est génralement la première commande que l'on tape quand on arrve dans le terminal de quelqu'un : c'est idéal pour s'y retrouver 
+`[pwd]` est génralement la première commande que l'on tape quand on arrive dans le terminal de quelqu'un : c'est idéal pour s'y retrouver 
  
  ###
  1.3.3.2 LS
 
-`[ls]` est le diminutif le dimunitif pour _list_ , cette fonction ffiche les fichiers et dossiers qu'ils y a dans mon dossier actuel.
+`[ls]` est le diminutif le dimunitif pour _list_ , cette fonction ffiche les fichiers et dossiers qu'ils y'a dans mon dossier actuel.
 
 `[$ ls]`
 
