@@ -52,7 +52,7 @@ Pour faire marcher le terminal , rien de plus : il suffit de rentrer le texte co
  (Je commence toutes les commandes du terminal avec `[$]` c'est une convention, et c'est plus facile à reconnaitre comme ceci)
 
  Si tu exécutes cette commande le terminal devrait te renvoyer `[Hello world !]` ( cette phrase est un [grand classique de la progammation](https://fr.wikipedia.org/wiki/Hello_world))
- Et là , tu viens d'exécuter ta première commande de terminal . Maintenant nous allons voir les premières commande de base.
+ Et là , tu viens d'exécuter ta première commande de terminal . Maintenant nous allons voir les premières commandes de base.
 
  ### 1.3.3.1 PWD
 
